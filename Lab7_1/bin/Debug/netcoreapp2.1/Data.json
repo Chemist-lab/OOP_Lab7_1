@@ -1,0 +1,51 @@
+﻿[
+  {
+    "PlaneName": "Litak1",
+    "PlaneId": "2",
+    "Fly_time": "32",
+    "PlaneCapacity": "412",
+    "PlanePower": "1200"
+  },
+  {
+    "PlaneName": "Litak",
+    "PlaneId": "65",
+    "Fly_time": "25",
+    "PlaneCapacity": "65",
+    "PlanePower": "25"
+  },
+  {
+    "PlaneName": "Litak6",
+    "PlaneId": "6",
+    "Fly_time": "12",
+    "PlaneCapacity": "431",
+    "PlanePower": "1000"
+  },
+  {
+    "PlaneName": "an-21",
+    "PlaneId": "1",
+    "Fly_time": "12",
+    "PlaneCapacity": "123",
+    "PlanePower": "1000"
+  },
+  {
+    "PlaneName": "Litak5",
+    "PlaneId": "5",
+    "Fly_time": "12",
+    "PlaneCapacity": "53",
+    "PlanePower": "325"
+  },
+  {
+    "PlaneName": "Litak3",
+    "PlaneId": "4",
+    "Fly_time": "12",
+    "PlaneCapacity": "10",
+    "PlanePower": "400"
+  },
+  {
+    "PlaneName": "Litak2",
+    "PlaneId": "3",
+    "Fly_time": "10",
+    "PlaneCapacity": "20",
+    "PlanePower": "400"
+  }
+]

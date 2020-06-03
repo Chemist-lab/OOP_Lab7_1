@@ -1,0 +1,6 @@
+D:\Labs\OOP\Lab7\Lab7_1\Lab7_1\bin\Debug\netcoreapp3.1\Lab7_1.exe
+D:\Labs\OOP\Lab7\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.csprojAssemblyReference.cache
+D:\Labs\OOP\Lab7\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.AssemblyInfoInputs.cache
+D:\Labs\OOP\Lab7\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.AssemblyInfo.cs
+D:\Labs\OOP\Lab7\Lab7_1\Lab7_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Labs\OOP\Lab7\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.csproj.CopyComplete
